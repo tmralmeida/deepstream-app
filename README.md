@@ -12,5 +12,5 @@ make && ./app
 
 # Content
 
-* 1_camera_yolo_tracker: 1 camera + (YOLOV3 + tracker)
-* 2_camera_yolo_final_app: 1 camera + YOLOV3 
+* 1_camera_yolo_tracker: 1 camera + (YOLOv3 + tracker)
+* 2_camera_yolo_final_app: 1 camera + YOLOv3 
