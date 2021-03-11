@@ -1,5 +1,5 @@
 # deepstream-app
-This repo includes 2 examples of deepstream applications based on NVIDIA applications.
+This repo includes 2 examples of deepstream applications based on NVIDIA examples.
 
 # Prerequisites
 
@@ -12,5 +12,5 @@ make && ./app
 
 # Content
 
-* 1_camera_yolo_tracker: 1 camera + (YoloV3 + tracker)
-* 2_camera_yolo_final_app: 1 camera + YoloV3 
+* 1_camera_yolo_tracker: 1 camera + (YOLOV3 + tracker)
+* 2_camera_yolo_final_app: 1 camera + YOLOV3 
